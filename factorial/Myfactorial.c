@@ -10,7 +10,7 @@ int main()
     fact=fact*c;
 
   }
-  printf("Factorial od %d is:%d",num,fact);
+  printf("Factorial of %d is:%d",num,fact); //typo
 
 return 0;
 }
